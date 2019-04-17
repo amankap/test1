@@ -1,0 +1,78 @@
+
+
+html,body{
+ font-family: 'Open Sans', sans-serif;
+ font-family: 'Lobster', cursive;
+  font-size: 20px;
+  text-align: center;
+  min-width: 260px;
+  color: black;
+  font-weight: bolder;
+  background: url("../images/background-balance.jpg")  no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-size: cover;
+  
+  
+}
+
+#main{
+  margin-top: 20px;  
+  
+}
+
+#img-div {
+  
+  display: block;
+    
+}
+
+.nav a {
+ color: #767878;
+}
+ 
+   }
+}
+figure p {
+margin-bottom: 0;
+       
+}
+
+  figure img {
+    border: 5px solid #8b8e4b;
+   
+   }
+
+
+.picture {
+  
+ text-align: center;
+
+}
+
+   
+#headline{
+  margin-top:50px;
+  text-align:left;
+}
+ul{
+  max-width:550px;
+  margin: 0 auto;
+  text-align:left;
+}
+ 
+blockquote{
+  font-style: italic;
+}
+
+ #tribute-info {
+ align-content: center;
+ 
+
+ }
+ 
+ #img-div {
+  margin-bottom: 0px;
+ }
